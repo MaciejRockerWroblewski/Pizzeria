@@ -50,6 +50,8 @@ public enum Pizza {
     NORWESKA(true, true, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, false, true, false, false, false, false, false, true, false, false, false, false, false, false, false, false, false, false, false, true, false, true, false, false);
 
 
+
+
     private final boolean tomatoSauce;
     private final boolean cheese;
     private final boolean mushrooms;
